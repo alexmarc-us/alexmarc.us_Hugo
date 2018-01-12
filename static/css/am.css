@@ -1,0 +1,33 @@
+body {
+    color: #3d3547;
+}
+
+.navbar-default, footer .footer-above {
+    background-color: #273457;
+}
+
+footer .footer-below {
+    background-color: #08122C;
+}
+
+section.success, header {
+    background-color: #352859;
+    color: rgb(142, 126, 185);
+}
+
+hr.star-light::after, hr.star-primary::after {
+    content: "\f0b2"
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #352859;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: #596687;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #827531;
+}
