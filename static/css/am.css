@@ -35,7 +35,12 @@ hr.star-primary::after {
     color:#6b5d7d;
 }
 
+/** PORTFOLIO **/
+#portfolio .portfolio-item .portfolio-link .caption {
+    background-color: #352859;
+}
 
+/** LINKS **/
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background-color: #352859;
 }
@@ -50,7 +55,7 @@ hr.star-primary::after {
     color: rgb(142, 126, 185);
 }
 
-a, a:hover, a:focus, a:active, a.active {
+a, a:hover, a:focus, a:active, a.active, section.success a, section.success a:hover, section.success a:focus, section.success a:active, section.success a.active {
     color: rgb(221, 221, 221);
     text-decoration: underline;
 }

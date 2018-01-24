@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://alexmarc.us/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Alex Marcus"
+title = "Hugo Freelancer Theme"
 theme = "hugo-freelancer-theme"
 
 
@@ -12,8 +12,8 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Alex Marcus"
-    description = "The home and portfolio of Alex Marcus, a world explorer, professional software developer, and all-around solid teammate."
+    name = "Mr. Hugo"
+    description = "My awesome description"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -26,21 +26,21 @@ theme = "hugo-freelancer-theme"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "mr@alexmarc.us"
+    email = "your@email.com"
 
     # Custom assets
-	custom_css = ["css/am.css"]
+	custom_css = []
 	custom_js  = []
 
     [params.navigation]
-        brand = "Alex Marc.us"
+        brand = "Mr. Hugo's Portfolio"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "am.png"
-        name = "Alex Marcus"
-        subtitle = "Explorer - Developer - Teammate"
+        image = "profile.png"
+        name = "Mr. Hugo"
+        subtitle = "Blogger - Programmer - Gopher"
 
 
     [params.portfolio]
@@ -60,8 +60,14 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Alex Marcus is a Software Development Team Lead at [Level 11](//level11.com), working to join the worlds of programming and design into robust, intuitive, and cutting-edge user interfaces."
-        right = "Since earning his degree in computer science and art, he has honed both skills in a number of web and software development roles across the United States."
+        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
+        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+
+        [params.about.button]
+            text = "Download theme"
+            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            icon = "download"
+
 
     [params.contact]
         title = "Contact"
@@ -88,34 +94,27 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "&copy; 2018 Alex Marcus"
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["Bremerton, WA", "Seattle, WA"]
+            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
 
         [params.footer.social]
-            title = "Be Social!"
+            title = "Around the web"
             # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
             # for more icons. The icons are represented by their corresponding
             # CSS class.
             [[params.footer.social.networks]]
-                icon = "fa-linkedin"
-                link=  "//linkedin.com/in/amarcus"
-
-            [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/optimarcusprime"
+                link = "//github.com/spf13/hugo"
 
             [[params.footer.social.networks]]
-                icon = "fa-twitter"
-                link=  "//twitter.com/optimarcusprime"
-            
-            [[params.footer.social.networks]]
-                icon = "fa-instagram"
-                link=  "//instagram.com/optimarcusprime"
+                icon = "fa-stack-overflow"
+                link=  "//stackoverflow.com/questions/tagged/hugo"
+
 
         [params.footer.credits]
-            title = "Powered By"
-            text = "[Hugo](//gohugo.io) static site generator and a customized [Freelance](//github.com/digitalcraftsman/hugo-freelancer-theme) theme."
+            title = "About Freelancer"
+            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
