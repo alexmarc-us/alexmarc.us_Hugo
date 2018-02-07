@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "am.png"
         name = "Alex Marcus"
-        subtitle = "Explorer - Developer - Teammate"
+        subtitle = "Problem Solver - Explorer - Team Builder"
 
 
     [params.portfolio]
@@ -52,7 +52,8 @@ theme = "hugo-freelancer-theme"
 
         [params.portfolio.modal]
             client = "Client"
-            date = "Date"
+            startDate = "Start Date"
+            endDate = "End Date"
             category = "Category"
             buttontext = "Close"
 

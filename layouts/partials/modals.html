@@ -20,8 +20,11 @@
                             <li>{{ with $.Site.Params.portfolio.modal.client }}{{.}}{{ end }}:
                                 <strong><a href="{{ .clientLink }}">{{ .client }}</a></strong>
                             </li>
-                            <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}{{ end }}:
-                                <strong>{{ .date }}</strong>
+                            <li>{{ with $.Site.Params.portfolio.modal.startDate }}{{.}}{{ end }}:
+                                <strong>{{ .startDate }}</strong>
+                            </li>
+                            <li>{{ with $.Site.Params.portfolio.modal.endDate }}{{.}}{{ end }}:
+                                <strong>{{ .endDate }}</strong>
                             </li>
                             <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}{{ end }}:
                                 <strong>{{ .category }}</strong>
