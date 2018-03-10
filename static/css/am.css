@@ -40,6 +40,21 @@ hr.star-primary::after {
     background-color: #352859;
 }
 
+.portfolio-item a.portfolio-link h4.portfolio-title {
+    text-align: center;
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+/** CONTACT **/
+form .row:first-child .floating-label-form-group {
+    border-top: 1px solid #6b5d7d4d;
+}
+
+.floating-label-form-group {
+    border-bottom: 1px solid #6b5d7d4d;
+}
+
 /** LINKS **/
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background-color: #352859;

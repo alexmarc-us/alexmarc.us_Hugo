@@ -97,7 +97,7 @@ theme = "hugo-freelancer-theme"
             address = ["Bremerton, WA", "Seattle, WA"]
 
         [params.footer.social]
-            title = "Be Social!"
+            title = "Let's Connect!"
             # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
             # for more icons. The icons are represented by their corresponding
             # CSS class.
