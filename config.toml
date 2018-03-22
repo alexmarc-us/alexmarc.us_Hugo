@@ -62,7 +62,9 @@ theme = "hugo-freelancer-theme"
         title = "About"
         # The about text is splitted into a left and right column
         left = "Alex Marcus is a Software Development Team Lead at [Level 11](//level11.com), working to join the worlds of programming and design into robust, intuitive, and cutting-edge user interfaces."
-        right = "Since earning his degree in computer science and art, he has honed both skills in a number of web and software development roles across the United States."
+        right = "Since earning his degree in computer science and art, he has honed both skills in a number of web and software development roles across the United States.  With that knowledge he has started and led a number of successful development teams."
+        # The center text will display below the left and right, centered on the page
+        center = "Alex lives in Bremerton, WA with his partner [Chelsea](//chelseakellogg.com) and dog Bartleby.  Together they explore the wilds of the Pacific Northwest and beyond."
 
     [params.contact]
         title = "Contact"

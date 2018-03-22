@@ -7,13 +7,19 @@
                 <hr class="star-light">
             </div>
         </div>
-    <div class="row">
-        <div class="col-lg-4 col-lg-offset-2">
-            <p>{{ with .Site.Params.about.left }}{{ . | markdownify }}{{ end }}</p>
-        </div>
+        <div class="row">
+            <div class="col-lg-4 col-lg-offset-2">
+                <p>{{ with .Site.Params.about.left }}{{ . | markdownify }}{{ end }}</p>
+            </div>
             <div class="col-lg-4">
                 <p>{{ with .Site.Params.about.right }}{{ . | markdownify }}{{ end }}</p>
             </div>
+        </div>
+    <p>{{ with .Site.Params.about.center }}{{ . | markdownify }}{{ end }}</p>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <img class="img-responsive" src="img/ChelseaAlex137.jpg" alt="Picture of Alex and his partner Chelsea, with dog Bartleby." />
         </div>
     </div>
 </section>

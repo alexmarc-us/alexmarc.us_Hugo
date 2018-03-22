@@ -4,17 +4,20 @@ body {
     color: #3d3547;
 }
 
-.navbar-default, footer .footer-above {
+.navbar-default, footer .footer-below {
     background-color: #273457;
 }
 
-footer .footer-below {
-    background-color: #08122C;
-}
-
-section.success, header, footer {
-    background-color: #352859;
+section.success, header, footer, footer .footer-above {
+    /* background-color: #352859; */
     color: rgb(221, 221, 221);
+    background: repeating-radial-gradient(
+      circle at center -100px,
+      #352859,
+      #352859 10px,
+      #273457 10px, 
+      #273457 20px
+    );
 }
 
 hr.star-light {
@@ -37,13 +40,19 @@ hr.star-primary::after {
 
 /** PORTFOLIO **/
 #portfolio .portfolio-item .portfolio-link .caption {
-    background-color: #352859;
+    background-color: #352859b3;
 }
 
 .portfolio-item a.portfolio-link h4.portfolio-title {
     text-align: center;
     text-decoration: none;
     text-decoration-style: none;
+    color: #6b5d7d;
+}
+
+/** ABOUT **/
+.img-responsive {
+    margin: 0 auto;
 }
 
 /** CONTACT **/
