@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="row">
-            {{ range $.Site.Data.projects }}
+            {{ range sort $.Site.Data.projects "startDate" "desc" }}
             <div class="col-sm-4 portfolio-item">
                 <a href="#portfolioModal{{ .modalID }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">

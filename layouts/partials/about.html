@@ -15,7 +15,12 @@
                 <p>{{ with .Site.Params.about.right }}{{ . | markdownify }}{{ end }}</p>
             </div>
         </div>
-    <p>{{ with .Site.Params.about.center }}{{ . | markdownify }}{{ end }}</p>
+        <br />
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <p>{{ with .Site.Params.about.center }}{{ . | markdownify }}{{ end }}</p>
+            </div>
+        </div>
     </div>
     <div class="row">
         <div class="col-lg-12">
