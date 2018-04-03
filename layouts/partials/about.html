@@ -8,16 +8,14 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-lg-offset-2">
-                <p>{{ with .Site.Params.about.left }}{{ . | markdownify }}{{ end }}</p>
-            </div>
-            <div class="col-lg-4">
-                <p>{{ with .Site.Params.about.right }}{{ . | markdownify }}{{ end }}</p>
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h3>{{ with .Site.Params.about.top }}{{ . | markdownify }}{{ end }}</h3>
             </div>
         </div>
-        <br />
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
+                <p>{{ with .Site.Params.about.left }}{{ . | markdownify }}{{ end }}</p>
+                <p>{{ with .Site.Params.about.right }}{{ . | markdownify }}{{ end }}</p>
                 <p>{{ with .Site.Params.about.center }}{{ . | markdownify }}{{ end }}</p>
             </div>
         </div>

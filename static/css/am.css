@@ -10,7 +10,7 @@ body {
 
 section.success, header, footer, footer .footer-above {
     /* background-color: #352859; */
-    color: rgb(221, 221, 221);
+    color: rgb(300, 300, 300);
     background: repeating-radial-gradient(
       circle at center -100px,
       #352859,
@@ -50,6 +50,19 @@ hr.star-primary::after {
     color: #6b5d7d;
 }
 
+.portfolio-modal .modal-content h2 {
+    font-size: 2em;
+}
+
+.portfolio-modal .modal-content p {
+    text-align: left;
+    text-indent: 2em;
+}
+
+.portfolio-modal .modal-content a {
+    color: #3d3547;
+}
+
 /** ABOUT **/
 .img-responsive {
     margin: 0 auto;
@@ -71,7 +84,7 @@ form .row:first-child .floating-label-form-group {
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a {
-    color: rgb(221, 221, 221);
+    color: rgb(300, 300, 300);
     text-decoration: none;
 }
 
@@ -80,6 +93,6 @@ form .row:first-child .floating-label-form-group {
 }
 
 a, a:hover, a:focus, a:active, a.active, section.success a, section.success a:hover, section.success a:focus, section.success a:active, section.success a.active {
-    color: rgb(221, 221, 221);
+    color: rgb(300, 300, 300);
     text-decoration: underline;
 }
