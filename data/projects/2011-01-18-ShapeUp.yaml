@@ -12,7 +12,42 @@ description: |
   During my time at ShapeUp I was tasked with a number of different projects.  Each contributed a user-facing component, and I was responsible for contributing to the entire product from inception, to definition, to design, to development and delivery.
 
   <h3>Don't Forget List</h3>
+  <h4>March, 2011</h4>
 
   To make participation easier, I helped code an MVC widget of PHP/MySQL-driven checkbox reminders.  The Don't Forget list's intuitive UI and modern HTML/CSS make it a vital tool to ShapeUp's platform.
 
   <img class="img-responsive" src="img/ShapeUp_DontForget.png" alt="ShapeUp - Don't Forget" />
+
+  <h3>Live Supporter Search</h3>
+  <h4>June, 2011</h4>
+
+  I was the lead developer for a re-code of the supporter search page, implementing live search results and one-click "Add as Supporter" links.  These results are displayed actively as the user enters a query. Results can be further refined by interest and location.
+
+  <img class="img-responsive" src="img/ShapeUp_SupporterSearch.png" alt="ShapeUp - Don't Forget" />
+
+  <h3>Participant Support Form</h3>
+  <h4>August, 2011</h4>
+
+  ShapeUp asked me to create a participant support form for gathering information about issues regarding their social health platform.  To streamline receiving over 2,700 technical platform incident tickets per year, I worked closely with the Participant Support department to identify key information required when tickets are filed.
+
+  The result is a functional contact form which pulls user information to automatically fill basic fields. With browser and OS detection and integration with the Participant Support ticket system, this form provides a more efficient contact path for over 600,000 users around the world.
+
+  <img class="img-responsive" src="img/ShapeUp_ContactForm.png" alt="ShapeUp - Participant Support Form" />
+
+  <h3>People You May Know</h3>
+  <h4>February, 2012</h4>
+
+  The People You May Know widget algorithmically generates potential supporter suggestions based on user activities and interest compatibility. This widget works within ShapeUp’s scoped organization and privacy settings.
+
+  I was the lead developer for this widget, and worked closely with analysts to establish the optimal algorithm for supporter compatibility.  I then coded the query in MySQL and used PHP to display the results.
+
+  <img class="img-responsive" src="img/ShapeUp_PeopleYouMayKnow.png" alt="ShapeUp - People You May Know" />
+
+  <h3>Fitness Tracking Calendar</h3>
+  <h4>Febrary, 2013</h4>
+
+  This tracking calendar is the core of the ShapeUp platform, allowing users to track their fitness-related metrics on a daily or weekly basis.  Metrics are either standard, for competitions and charts, or customized to the participant's goals.
+
+  I developed a number of improvements and fixes for this component, either initiated by the product management team or in response to a technical issue.  Much of the calendar's functionality involves asynchronous database changes.  Active widgets on the page are updated on-the-fly with averages, ranks, and more.
+
+  <img class="img-responsive" src="img/ShapeUp_Tracking.png" alt="ShapeUp - Fitness Tracking Calendar" />
