@@ -5,5 +5,14 @@ endDate: 2013-05-01
 img: Bicycle.png
 client: Shape Up, Inc.
 clientLink: "https://shapeup.com/"
-category: Web Development
-description: TEST DESCRIPTION
+category: CSS, HTML, JavaScript, MySQL, PHP, Prototype
+description: |
+  ShapeUp was my first professional tech job outside of my college environment, and it launched me into a career of software engineering across a the stack of technologies.  Their activity-tracking social platform utilizes user participation and organization-level events to encourage healthy employee lifestyles.
+
+  During my time at ShapeUp I was tasked with a number of different projects.  Each contributed a user-facing component, and I was responsible for contributing to the entire product from inception, to definition, to design, to development and delivery.
+
+  <h3>Don't Forget List</h3>
+
+  To make participation easier, I helped code an MVC widget of PHP/MySQL-driven checkbox reminders.  The Don't Forget list's intuitive UI and modern HTML/CSS make it a vital tool to ShapeUp's platform.
+
+  <img class="img-responsive" src="img/ShapeUp_DontForget.png" alt="ShapeUp - Don't Forget" />
