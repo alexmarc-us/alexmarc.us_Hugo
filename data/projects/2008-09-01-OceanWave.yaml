@@ -9,6 +9,8 @@ category: Canvas, HTML5, JavaScript
 description: |
   During a Programming Languages course at Connecticut College, I was challenged to create a shoreline wave simulation in the language of my choosing.  I was interested in delving further into the world of web development, I chose JavaScript. This was my first utilization the HTML5 canvas tag with JavaScript to create live animations, and I enjoyed it thoroughly.
 
+  The code for this project is <a href="https://github.com/optimarcusprime/alexmarc.us/blob/master/static/js/wave.js" target="_blank">available here</a>.  Feel free to give it a try below!
+
   <ul style="margin:0px;">
     <li><a href="javascript: wave(0);" class="down">Flat shoreline</a></li>
     <li><a href="javascript: wave(1);" class="down">Random shoreline</a></li>
