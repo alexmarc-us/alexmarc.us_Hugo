@@ -1,0 +1,98 @@
+/* Based on http://paletton.com/#uid=64g0u0kjOggc6p7g6konYcHtd8h */
+
+body {
+    color: #3d3547;
+}
+
+.navbar-default, footer .footer-below {
+    background-color: #273457;
+}
+
+section.success, header, footer, footer .footer-above {
+    /* background-color: #352859; */
+    color: rgb(300, 300, 300);
+    background: repeating-radial-gradient(
+      circle at center -100px,
+      #352859,
+      #352859 10px,
+      #273457 10px, 
+      #273457 20px
+    );
+}
+
+hr.star-light {
+    border-color: rgb(142, 126, 185);
+}
+
+hr.star-light::after {
+    content: "\f0b2";
+    color:rgb(142, 126, 185);
+}
+
+hr.star-primary {
+    border-color: #6b5d7d;
+}
+
+hr.star-primary::after {
+    content: "\f0b2";
+    color:#6b5d7d;
+}
+
+/** PORTFOLIO **/
+#portfolio .portfolio-item .portfolio-link .caption {
+    background-color: #352859b3;
+}
+
+.portfolio-item a.portfolio-link h4.portfolio-title {
+    text-align: center;
+    text-decoration: none;
+    text-decoration-style: none;
+    color: #6b5d7d;
+}
+
+.portfolio-modal .modal-content h2 {
+    font-size: 2em;
+}
+
+.portfolio-modal .modal-content p {
+    text-align: left;
+    text-indent: 2em;
+}
+
+.portfolio-modal .modal-content a {
+    color: #3d3547;
+}
+
+/** ABOUT **/
+.img-responsive {
+    margin: 0 auto;
+}
+
+/** CONTACT **/
+form .row:first-child .floating-label-form-group {
+    border-top: 1px solid #6b5d7d4d;
+}
+
+.floating-label-form-group {
+    border-bottom: 1px solid #6b5d7d4d;
+}
+
+/** LINKS **/
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #352859;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: rgb(300, 300, 300);
+    text-decoration: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: rgb(142, 126, 185);
+}
+
+a, a:hover, a:focus, a:active, a.active, section.success a, section.success a:hover, section.success a:focus, section.success a:active, section.success a.active {
+    color: rgb(300, 300, 300);
+    text-decoration: underline;
+}
