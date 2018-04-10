@@ -1,9 +1,12 @@
 modalID: 11
-title: Omni Retail Group
+title: OMNI Retail Group
 startDate: June, 2015
 endDate: November, 2015
 img: Trolley.png
 client: Omni Retail Group
 clientLink: "http://omniretailgroup.com/"
-category: Web Development
-description: TEST DESCRIPTION
+category: JavaScript, HTML, RequireJS, NodeJS, AWS
+description: |
+  OMNI Retail Group provides a platform which enables retailers and manufacturers to serve shoppers with an intuitive, engaging and consistent product discovery experience across millions of SKUS and thousands of product categories.  It offers cross-analysis around online shopping habits and in-store purchases.
+
+  During my time at OMNI I contributed a critical client page plugin to their eCommerce analysis suite, consisting of RequireJS-optimized front-end JavaScript code with a NodeJS middle tier and AWS backend.  This code was deployed across numberous Fortune 500 client retail sites and provides in-depth analytic data.

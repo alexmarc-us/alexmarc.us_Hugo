@@ -5,5 +5,8 @@ endDate: Ongoing
 img: Rocket.png
 client: Veevra
 clientLink: "http://veevra.com"
-category: Web Development
-description: TEST DESCRIPTION
+category: JavaScript, HTML, CSS, ReactJS, NodeJS, D3.js
+description: |
+  Veevra is a start-up focused on providing a digital career coach for individuals seeking to escape the hiring cycle of recruiters and job posting sites.  Using machine learning and a data-driven platform, users can discover what potential their future career can hold and receive advice on how to get there.
+
+  Veevra is a passion project for me.  I have been the lead front-end developer for the project since its Alpha phase, committing my free time to its success.  Leveraging ReactJS, I re-architected the Veevra web application for flexibility and mobilty as the company became more public-facing and began accepting test users.  With my help it is quickly moving towards an open Beta and active clients.

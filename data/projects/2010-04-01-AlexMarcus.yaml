@@ -1,0 +1,52 @@
+modalID: 8
+title: AlexMarc.us
+startDate: April, 2010
+endDate: Ongoing
+img: Picture.png
+client: Alex Marcus
+clientLink: "http://alexmarc.us"
+category: WordPress, HTML, CSS, JavaScript, web hosting, PHP, MySQL
+description: |
+  This website has undergone many changes since its first version in late 2010.  Each iteration has reflected my knowledge of web development and my expanding toolset.  I enjoy keeping the old versions online for nostalgia and to reflect how far I've come.
+
+  <h3>v1.0</h3>
+  <h4>April, 2010</h4>
+
+  AlexMarc.us v1.0 began as an experiment in the boundaries of web browsing. It was created as the final project of my design independent study at <a href="http://conncoll.edu/" target="_blank">Connecticut College</a>.
+
+  Here is an excerpt from my original statement about the design:
+
+  > AlexMarc.us uses a combination of sophisticated CSS and Javascript techniques to display HTML content on a massive horizontal and vertical plane with smooth navigation features. A quick Google search will find you with posts about various sites with especially good horizontal or vertical layouts, but none which encompass both possibilities. This is where the ingenuity of my new design shines.
+  >
+  > By employing both dimensions into my page I allow for fast load times, good search engine caching, and intricate layout options. There is a multitude of modules which can be easily and quickly applied to my page, such as minimap navigation, advanced scrolling recognition applications, social networking integration, blogs, etc. The possibilities are endless, like the canvas that I’m crafting it on._
+
+  v1.0 has been reproduced <a href="http://alexmarc.us/AM1.0/" target="_blank">here</a>, but note that the information there is largely out-of-date and some sections have been removed.
+
+  <h3>v2.0</h3>
+  <h4>September, 2010</h4>
+
+  The second version of AlexMarc.us was a major shift from v1.0, both in its design and layout.  Pulling back from the experimental and theoretically endless expanse of pixels in v1.0, I created a minimal and almost completely image-free experience.  In the second version I also began utilizing WordPress as a content management system.
+
+  My original statement on the site is as follows:
+
+  > The site is a design completely of my own creation. It is run on the WordPress content management system with an entirely custom set of modern HTML/CSS/PHP templates integrating the posts and sections you see above into a logical, clean layout.
+  > 
+  > While developing this site I tested several layouts before deciding that content is king. I came up with a layout that is uncompromisingly dedicated to content, which relates the sections, categories, and posts entirely through words. The only image-like items I allowed in the design are the small ASCII arrows, which offer a more immediate understanding of the site’s navigation.
+
+  AlexMarc.us v2.0 was launched on September 5, 2010 and has been reproduced <a href="http://alexmarc.us/AM2.0/" target="_blank">here</a>, but please note that the information there is largely out-of-date.
+
+  <h3>v3.0</h3>
+  <h4>January, 2015</h4>
+
+  AlexMarc.us v3.0 is the result of several months of pen-and-paper design planning and drafting. The design went through a number of iterations: some very intricate and technically challenging, others more minimal and functional. Eventually I settled on a design that is both visually interesting and functional, keeping with the previous versions's focus on content.
+
+  The code is based on a HTML5 WordPress boilerplate template called <a href="http://underscores.me/" target="_blank">Underscores</a>, which I customized to fit my needs. AlexMarc.us 3.0 utilizes jQuery and Backbone JS libraries, as well as Google fonts and analytics. Once I had completed the desktop version to my specifications, I customized the mobile experience using CSS media queries to fit any device.
+
+  AlexMarc.us v3.0 is still running <a href="http://alexmarc.us/AM3.0/" target="_blank">here</a>, but please note that the information there is largely out-of-date.
+
+  <h3>v4.0</h3>
+  <h4>April, 2018</h4>
+
+  The latest version of AlexMarc.us, which you are currently viewing, represents a shift in the handling of my online portfolio.  Given the security issues of WordPress and the advent of new static site generation techniques, I decided to use <a href="https://gohugo.io/" target="_blank">Hugo</a> to produce this site.  Hugo's Go-based backend and powerful templating engine make it a fast and functional way to put content on the web.
+
+  The source code for this iteration of AlexMarc.us is available <a href="https://github.com/optimarcusprime/alexmarc.us" target="_blank">on GitHub</a>.  Enjoy!
