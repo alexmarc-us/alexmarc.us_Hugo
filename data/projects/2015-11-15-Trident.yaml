@@ -13,6 +13,6 @@ description: |
 
   In preparation for <a href="https://www.wired.com/2017/01/carnival-ocean-medallion-wearable/" target="_blank">CES 2017</a>, I developed the proof-of-concept Wayfinding Beta in web technologies such as WebGL, Node.js, and React.  This demonstration was presented to members of the press and the project was mentioned in <a href="https://www.youtube.com/watch?v=Im7xJeHrvkM" target="_blank">Arnold Donald's keynote address</a>.
 
-  As the project moved from demonstration to production, the tech stack was switched to <a href="https://unity3d.com/" target="_blank">Unity3D</a>.  At the same time, I was asked to take on the Team Lead role for Wayfinding and entrusted with its delivery.
+  As the timeline moved from demonstration to production, the tech stack changed to <a href="https://unity3d.com/" target="_blank">Unity3D</a>.  At the same time, I was asked to take on the Team Lead role for Wayfinding and entrusted with its delivery.
 
   In this new leadership position, I guided a team of 6 developers to implement, test, and deploy Wayfinding.  In November 2017 the Ocean NAV project was successfully delivered to Carnival's first Medallion-Class ship.  Its ability to guide guests through labyrinth-like ships and provide insight into activities has been a highlight of the OCEAN experience.

@@ -14,36 +14,40 @@ description: |
   <h3>Splash Layouts</h3>
   <h4>August, 2013</h4>
 
-  Most major brands on the Sur La Table site are given their own landing and splash pages to tell their brand story. A readable and informative layout is imperative for these pages, so in cooperation with my design teammates I developed a number of such layouts.
+  <p>Most major brands on the Sur La Table site are given their own landing and splash pages to tell their brand story. A readable and informative layout is imperative for these pages, so in cooperation with my design teammates I developed a number of such layouts.</p>
 
-  * <a href="http://www.surlatable.com/category/cat1790419/" target="_blank">James Beard - Taste of America</a>
-  * <a href="http://www.surlatable.com/category/cat1640445/" target="_blank">Panna splash</a>
-  * <a href="http://www.surlatable.com/category/cat1884013/Lodge-Videos" target="_blank">Lodge videos</a>
-  * <a href="http://www.surlatable.com/category/cat1961815/QOOQ+Tablet?cleanSession=true&pCat=CAT-5782" target="_blank">QOOQ Tablet splash</a>
-  * <a href="http://www.surlatable.com/category/cat1980599/QOOQ+Videos" target="_blank">QOOQ Tablet videos</a>
+  <ul style="margin:10px auto; text-align: left; width: 50%; font-size:18px;">
+    <li> <a href="http://www.surlatable.com/category/cat1790419/" target="_blank">James Beard - Taste of America</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat1640445/" target="_blank">Panna splash</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat1884013/Lodge-Videos" target="_blank">Lodge videos</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat1961815/QOOQ+Tablet?cleanSession=true&pCat=CAT-5782" target="_blank">QOOQ </li>Tablet splash</a>
+    <li> <a href="http://www.surlatable.com/category/cat1980599/QOOQ+Videos" target="_blank">QOOQ Tablet videos</a></li>
+  </ul>
 
   <img class="img-responsive" src="img/SurLaTable_JamesBeard.png">
 
   <h3>Product Comparison</h3>
   <h4>October, 2013</h4>
 
-  I designed and developed several product comparison pages, using jQuery, HTML, and CSS.  These pages have a number of interactive features to deliver an interactive, informative experience, such as guided side-scrolling for unlimited comparisons, section minimization, dual side-scrollbars for easier access, and a top-locking image row for easy identification.
+  <p>I designed and developed several product comparison pages, using jQuery, HTML, and CSS.  These pages have a number of interactive features to deliver an interactive, informative experience, such as guided side-scrolling for unlimited comparisons, section minimization, dual side-scrollbars for easier access, and a top-locking image row for easy identification.</p>
 
   <img class="img-responsive" src="img/SurLaTable_Comparison.png">
 
   <h3>Product Anatomy</h3>
   <h4>March, 2014</h4>
 
-  Sur La Table has a large selection of quality products with many features. In order to display the features of such products in an interactive and user-friendly way, I was asked to create these anatomy pages to design team specifications
+  <p>Sur La Table has a large selection of quality products with many features. In order to display the features of such products in an interactive and user-friendly way, I was asked to create these anatomy pages to design team specifications</p>
 
-  * <a href="http://www.surlatable.com/category/cat1840422/" target="_blank">Mauviel M&#8217;Collection Anatomy</a>
-  * <a href="http://www.surlatable.com/category/cat1840424/" target="_blank">Miyabi Evolution Anatomy</a>
-  * <a href="http://www.surlatable.com/category/cat2040466/" target="_blank">Anatomy of Victorinox Rosewood</a>
-  * <a href="http://www.surlatable.com/category/cat2040468/" target="_blank">Anatomy of Victorinox Swiss Army</a>
-  * <a href="http://www.surlatable.com/category/cat2062899/" target="_blank">Anatomy of Kenwood Cooking Chef</a>
-  * <a href="http://www.surlatable.com/category/cat2060491/" target="_blank">Anatomy of Kenwood Kitchen Machine</a>
-  * <a href="http://www.surlatable.com/category/cat2060493/" target="_blank">Anatomy of Kenwood Multipro Food Processor</a>
-  * <a href="http://www.surlatable.com/category/cat2060492/" target="_blank">Anatomy of Kenwood Triblade Immersion Blender</a>
+  <ul style="margin:10px auto; text-align: left; width: 50%; font-size:18px;">
+    <li> <a href="http://www.surlatable.com/category/cat1840422/" target="_blank">Mauviel M&#8217;Collection Anatomy</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat1840424/" target="_blank">Miyabi Evolution Anatomy</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat2040466/" target="_blank">Anatomy of Victorinox Rosewood</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat2040468/" target="_blank">Anatomy of Victorinox Swiss Army</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat2062899/" target="_blank">Anatomy of Kenwood Cooking Chef</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat2060491/" target="_blank">Anatomy of Kenwood Kitchen Machine</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat2060493/" target="_blank">Anatomy of Kenwood Multipro Food Processor</a></li>
+    <li> <a href="http://www.surlatable.com/category/cat2060492/" target="_blank">Anatomy of Kenwood Triblade Immersion Blender</a></li>
+  </ul>
 
   <img class="img-responsive" src="img/SurLaTable_Anatomy.png">
 
@@ -65,11 +69,13 @@ description: |
 
   The WordPress blog is a custom developed theme based on <a href="http://shaybocks.com/foodie/" target="_blank">Foodie</a>.  The design team came up with a number of challenges, which I met head-on, including:
 
-  * Custom sidebar image menu
-  * Social media integration
-  * Custom category icons for posts
-  * Email list subscription
-  * Blog setup and administration
+  <ul style="margin:10px auto; text-align: left; width: 50%; font-size:18px;">
+    <li> Custom sidebar image menu</li>
+    <li> Social media integration</li>
+    <li> Custom category icons for posts</li>
+    <li> Email list subscription</li>
+    <li> Blog setup and administration</li>
+  </ul>
 
   The result of my efforts, along with those of the design team, is a beautiful and functional blog experience to help drive Sur La Table's web presence and SEO.
 
@@ -87,6 +93,7 @@ description: |
   <img class="img-responsive" src="img/SurLaTable_GiftCards.png">
 
   <h3>Product Detail Page</h3>
+  <h4>May, 2015</h4>
 
   SLT's product detail page (PDP) served online shoppers for almost a decade, and was in desperate need of a makeover.  During my two years at SLT I had developed a strong understanding of their eCommerce needs and design strategies, and so I was made the lead internal developer for the redesign project.
 

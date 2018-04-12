@@ -63,7 +63,7 @@ theme = "hugo-freelancer-theme"
         # The top text will be center aligned above the paragraphs
         top = "Hi, I'm Alex."
         # Note: These are not well-named, *shrug*
-        left = "I am a Software Development Team Lead at [Level 11](//level11.com), working to join the worlds of programming and design into robust, intuitive, and cutting-edge user interfaces."
+        left = "I am a Software Development Team Lead at [Level 11](//level11.com), working to join the worlds of programming and design into robust, intuitive, and cutting edge user interfaces."
         right = "Since earning my degree in computer science and art, I've honed both skills in a number of web and software development roles across the United States.  With that knowledge I have started and led a number of successful development teams."
         center = "I live in Bremerton, WA with my partner [Chelsea](//chelseakellogg.com) and dog Bartleby.  Together we explore the wilds of the Pacific Northwest and beyond."
 

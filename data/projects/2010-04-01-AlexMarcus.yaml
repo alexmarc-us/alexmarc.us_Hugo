@@ -38,7 +38,7 @@ description: |
   <h3>v3.0</h3>
   <h4>January, 2015</h4>
 
-  AlexMarc.us v3.0 is the result of several months of pen-and-paper design planning and drafting. The design went through a number of iterations: some very intricate and technically challenging, others more minimal and functional. Eventually I settled on a design that is both visually interesting and functional, keeping with the previous versions's focus on content.
+  AlexMarc.us v3.0 was the result of several months of pen-and-paper design planning and drafting. The design went through a number of iterations: some very intricate and technically challenging, others more minimal and functional. Eventually I settled on a design that is both visually interesting and functional, keeping with the previous versions's focus on content.
 
   The code is based on a HTML5 WordPress boilerplate template called <a href="http://underscores.me/" target="_blank">Underscores</a>, which I customized to fit my needs. AlexMarc.us 3.0 utilizes jQuery and Backbone JS libraries, as well as Google fonts and analytics. Once I had completed the desktop version to my specifications, I customized the mobile experience using CSS media queries to fit any device.
 
