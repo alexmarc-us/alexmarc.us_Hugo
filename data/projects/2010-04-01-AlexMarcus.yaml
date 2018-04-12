@@ -9,6 +9,8 @@ category: WordPress, HTML, CSS, JavaScript, web hosting, PHP, MySQL
 description: |
   This website has undergone many changes since its first version in late 2010.  Each iteration has reflected my knowledge of web development and my expanding toolset.  I enjoy keeping the old versions online for nostalgia and to reflect how far I've come.
 
+  <hr />
+
   <h3>v1.0</h3>
   <h4>April, 2010</h4>
 
@@ -21,6 +23,8 @@ description: |
   > By employing both dimensions into my page I allow for fast load times, good search engine caching, and intricate layout options. There is a multitude of modules which can be easily and quickly applied to my page, such as minimap navigation, advanced scrolling recognition applications, social networking integration, blogs, etc. The possibilities are endless, like the canvas that I’m crafting it on._
 
   v1.0 has been reproduced <a href="http://alexmarc.us/AM1.0/" target="_blank">here</a>, but note that the information there is largely out-of-date and some sections have been removed.
+
+  <hr />
 
   <h3>v2.0</h3>
   <h4>September, 2010</h4>
@@ -35,6 +39,8 @@ description: |
 
   AlexMarc.us v2.0 was launched on September 5, 2010 and has been reproduced <a href="http://alexmarc.us/AM2.0/" target="_blank">here</a>, but please note that the information there is largely out-of-date.
 
+  <hr />
+
   <h3>v3.0</h3>
   <h4>January, 2015</h4>
 
@@ -43,6 +49,8 @@ description: |
   The code is based on a HTML5 WordPress boilerplate template called <a href="http://underscores.me/" target="_blank">Underscores</a>, which I customized to fit my needs. AlexMarc.us 3.0 utilizes jQuery and Backbone JS libraries, as well as Google fonts and analytics. Once I had completed the desktop version to my specifications, I customized the mobile experience using CSS media queries to fit any device.
 
   AlexMarc.us v3.0 is still running <a href="http://alexmarc.us/AM3.0/" target="_blank">here</a>, but please note that the information there is largely out-of-date.
+
+  <hr />
 
   <h3>v4.0</h3>
   <h4>April, 2018</h4>

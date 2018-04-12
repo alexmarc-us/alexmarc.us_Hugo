@@ -13,7 +13,7 @@ theme = "hugo-freelancer-theme"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Alex Marcus"
-    description = "The home and portfolio of Alex Marcus, a world explorer, professional software developer, and all-around solid teammate."
+    description = "The home and portfolio of Alex Marcus, professional software developer and team lead."
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "am.png"
         name = "Alex Marcus"
-        subtitle = "Problem Solver - Explorer - Team Builder"
+        subtitle = "Problem Solver - Digger - Team Leader"
 
 
     [params.portfolio]

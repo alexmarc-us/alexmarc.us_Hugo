@@ -11,6 +11,8 @@ description: |
 
   Through day-to-day site maintenance and a number of large feature projects, I contributed major improvements to the SLT platform and learned a number of best-practice techniques.
 
+  <hr />
+
   <h3>Splash Layouts</h3>
   <h4>August, 2013</h4>
 
@@ -26,12 +28,16 @@ description: |
 
   <img class="img-responsive" src="img/SurLaTable_JamesBeard.png">
 
+  <hr />
+
   <h3>Product Comparison</h3>
   <h4>October, 2013</h4>
 
   <p>I designed and developed several product comparison pages, using jQuery, HTML, and CSS.  These pages have a number of interactive features to deliver an interactive, informative experience, such as guided side-scrolling for unlimited comparisons, section minimization, dual side-scrollbars for easier access, and a top-locking image row for easy identification.</p>
 
   <img class="img-responsive" src="img/SurLaTable_Comparison.png">
+
+  <hr />
 
   <h3>Product Anatomy</h3>
   <h4>March, 2014</h4>
@@ -51,6 +57,8 @@ description: |
 
   <img class="img-responsive" src="img/SurLaTable_Anatomy.png">
 
+  <hr />
+
   <h3>Navigation and Header</h3>
   <h4>May, 2014</h4>
 
@@ -61,6 +69,8 @@ description: |
   This was the biggest project of my web development career to date, in terms of prominence and views, and one of the most successful.
 
   <img class="img-responsive" src="img/SurLaTable_Nav.png">
+
+  <hr />
 
   <h3>Sur La Table Blog</h3>
   <h4>October, 2014</h4>
@@ -81,6 +91,8 @@ description: |
 
   <img class="img-responsive" src="img/SurLaTableBlog.png">
 
+  <hr />
+
   <h3>Gift Cards</h3>
   <h4>March, 2015</h4>
 
@@ -91,6 +103,8 @@ description: |
   The feedback for the new gift card page has been tremendous.  Users have praised it as a large improvement over the previous option and as one of the better gift card experiences on the web.
 
   <img class="img-responsive" src="img/SurLaTable_GiftCards.png">
+
+  <hr />
 
   <h3>Product Detail Page</h3>
   <h4>May, 2015</h4>
