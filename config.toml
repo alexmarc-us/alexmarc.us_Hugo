@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "am.png"
         name = "Alex Marcus"
-        subtitle = "Problem Solver - Digger - Team Leader"
+        subtitle = "Digital Digger & Team Leader"
 
 
     [params.portfolio]
@@ -122,4 +122,4 @@ theme = "hugo-freelancer-theme"
 
         [params.footer.credits]
             title = "Powered By"
-            text = "[Hugo](//gohugo.io) static site generator and a customized [Freelance](//github.com/digitalcraftsman/hugo-freelancer-theme) theme."
+            text = "Music, coffee, fresh air, and [Hugo](//gohugo.io)."
