@@ -13,4 +13,4 @@ description: |
 
   The result, when correctly installed on multiple systems, is a network of self-sufficient servers capable of backing up and restoring each other.  The implementation takes advantage of key Unix commands such as SCP and rsync.
 
-  The final code for Flownet, as well as the Powerpoint presentation I delivered to the Connecticut College Computer Science department, are <a href="https://github.com/optimarcusprime/Flownet/" target="_blank">available via GitHub</a>.
+  The final code for Flownet, as well as the Powerpoint presentation I delivered to the Connecticut College Computer Science department, are <a href="https://github.com/alexmarc-us/Flownet/" target="_blank">available via GitHub</a>.

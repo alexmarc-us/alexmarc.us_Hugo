@@ -57,4 +57,4 @@ description: |
 
   The latest version of AlexMarc.us, which you are currently viewing, represents a shift in the handling of my online portfolio.  Given the security issues of WordPress and the advent of new static site generation techniques, I decided to use <a href="https://gohugo.io/" target="_blank">Hugo</a> to produce this site.  Hugo's Go-based backend and powerful templating engine make it a fast and functional way to put content on the web.
 
-  The source code for this iteration of AlexMarc.us is available <a href="https://github.com/optimarcusprime/alexmarc.us" target="_blank">on GitHub</a>.  Enjoy!
+  The source code for this iteration of AlexMarc.us is available <a href="https://github.com/alexmarc-us/alexmarc.us" target="_blank">on GitHub</a>.  Enjoy!
