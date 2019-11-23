@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://alexmarc.us/"
+baseurl = "https://alexmarc.us/"
 languageCode = "en-us"
 title = "Alex Marcus"
 theme = "hugo-freelancer-theme"

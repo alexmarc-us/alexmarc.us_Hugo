@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alexmarc.us/</loc>
+    <loc>https://alexmarc.us/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alexmarc.us/categories/</loc>
+    <loc>https://alexmarc.us/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alexmarc.us/tags/</loc>
+    <loc>https://alexmarc.us/tags/</loc>
     <priority>0</priority>
   </url>
   
