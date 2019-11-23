@@ -13,7 +13,7 @@ theme = "hugo-freelancer-theme"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Alex Marcus"
-    description = "The home and portfolio of Alex Marcus, professional software developer and team lead."
+    description = "The home and portfolio of Alex Marcus, professional software engineer and creative tinkerer."
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "am.png"
         name = "Alex Marcus"
-        subtitle = "Digital Digger & Team Leader"
+        subtitle = "Digital Digger and Creative Tinkerer"
 
 
     [params.portfolio]
@@ -61,11 +61,11 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The top text will be center aligned above the paragraphs
-        top = "Hi, I'm Alex."
+        top = "Hi there, I'm Alex."
         # Note: These are not well-named, *shrug*
-        left = "I am a Software Development Team Lead at [Level 11](//level11.com), working to join the worlds of programming and design into robust, intuitive, and cutting edge user interfaces."
+        left = "I am a Software Engineer at [Adobe](//adobe.com), working to join the worlds of programming and art to provide tools for myself and creatives around the world."
         right = "Since earning my degree in computer science and art, I've honed both skills in a number of web and software development roles across the United States.  With that knowledge I have started and led a number of successful development teams."
-        center = "I live in Bremerton, WA with my partner [Chelsea](//chelseakellogg.com) and dog Bartleby.  Together we explore the wilds of the Pacific Northwest and beyond."
+        center = "I live in Bremerton, WA with my wife [Chelsea](//chelseakellogg.com) and dogs Bartleby and Bonnibel.  Together we explore the wilds of the Pacific Northwest and beyond."
 
     [params.contact]
         title = "Contact"
@@ -92,7 +92,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "&copy; 2018 Alex Marcus"
+        copyright = "&copy; 2019 Alex Marcus"
 
         [params.footer.location]
             title = "Location"
@@ -110,11 +110,11 @@ theme = "hugo-freelancer-theme"
 
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/optimarcusprime"
+                link = "//github.com/alexmarc-us"
 
             [[params.footer.social.networks]]
                 icon = "fa-twitter"
-                link=  "//twitter.com/optimarcusprime"
+                link=  "//twitter.com/alexmarc_us"
             
             [[params.footer.social.networks]]
                 icon = "fa-instagram"
