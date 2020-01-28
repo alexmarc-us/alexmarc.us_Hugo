@@ -48,7 +48,7 @@ theme = "hugo-freelancer-theme"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Portfolio"
+        title = "Projects"
 
         [params.portfolio.modal]
             client = "Client"
@@ -63,8 +63,8 @@ theme = "hugo-freelancer-theme"
         # The top text will be center aligned above the paragraphs
         top = "Hi there, I'm Alex."
         # Note: These are not well-named, *shrug*
-        left = "I am a Software Engineer at [Adobe](//adobe.com), working to join the worlds of programming and art to provide tools for myself and creatives around the world."
-        right = "Since earning my degree in computer science and art, I've honed both skills in a number of web and software development roles across the United States.  With that knowledge I have started and led a number of successful development teams."
+        left = "I am a Software Engineer at [Adobe](//adobe.com), working to join the worlds of programming and art to provide tools for creatives around the world."
+        right = "Since earning my degree in computer science and art, I've honed both skills in a number of web and software development roles across the United States.  With that knowledge I have joined and led a number of successful development projects."
         center = "I live in Bremerton, WA with my wife [Chelsea](//chelseakellogg.com) and dogs Bartleby and Bonnibel.  Together we explore the wilds of the Pacific Northwest and beyond."
 
     [params.contact]
@@ -118,7 +118,7 @@ theme = "hugo-freelancer-theme"
             
             [[params.footer.social.networks]]
                 icon = "fa-instagram"
-                link=  "//instagram.com/optimarcusprime"
+                link=  "//instagram.com/alexmarc.us"
 
         [params.footer.credits]
             title = "Powered By"
