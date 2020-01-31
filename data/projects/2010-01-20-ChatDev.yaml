@@ -7,10 +7,10 @@ client: Connecticut College
 clientLink: "https://www.conncoll.edu/"
 category: Python, Network Architecture
 description: |
-  ChatDev is a chat protocol and command line client for sending text communications, written in Python.  I coded ChatDev for my second semester of Computer Science Research Seminar at Connecticut College.  During this research period, I took an in-depth at how chat protocols, specifically XMPP, facilitate communication between users by utilizing socket connections, a centralized multithread server, and peer-to-peer messaging.
+  <p>ChatDev is a chat protocol and command line client for sending text communications, written in Python.  I coded ChatDev for my second semester of Computer Science Research Seminar at Connecticut College.  During this research period, I took an in-depth at how chat protocols, specifically XMPP, facilitate communication between users by utilizing socket connections, a centralized multithread server, and peer-to-peer messaging.</p>
 
-  The multi-threaded server receives connections from clients, and stores their information in a database containing the users&#8217; profile.  Then it regularly checks the users' presence, and updates online users with a list of online clients.
+  <p>The multi-threaded server receives connections from clients, and stores their information in a database containing the users&#8217; profile.  Then it regularly checks the users' presence, and updates online users with a list of online clients.</p>
 
-  The multi-threaded client sends login data to the server, indicating its online presence.  It then waits to receive data from other clients, or send data to other clients, via a P2P interface.  The client software utilizes a command line-style UI.
+  <p>The multi-threaded client sends login data to the server, indicating its online presence.  It then waits to receive data from other clients, or send data to other clients, via a P2P interface.  The client software utilizes a command line-style UI.</p>
 
-  The ChatDev code is available via GitHub at <a href="https://github.com/alexmarc-us/ChatDev" target="_blank">https://github.com/alexmarc-us/ChatDev</a>.
+  <p>The ChatDev code is available via GitHub at <a href="https://github.com/alexmarc-us/ChatDev" target="_blank">https://github.com/alexmarc-us/ChatDev</a>.</p>

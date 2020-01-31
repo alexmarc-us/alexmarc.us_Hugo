@@ -7,9 +7,9 @@ client: Sur La Table
 clientLink: "https://www.surlatable.com/"
 category: JavaScript, HTML, CSS, jQuery, eCommerce
 description: |
-  I worked for the headquarters of the high-end kitchen retailer Sur La Table (SLT) as their lead front-end web developer.  I was responsible for building user experiences on top of their enterprise eCommerce platform which would drive engagement and purchases.
+  <p>I worked for the headquarters of the high-end kitchen retailer Sur La Table (SLT) as their lead front-end web developer.  I was responsible for building user experiences on top of their enterprise eCommerce platform which would drive engagement and purchases.</p>
 
-  Through day-to-day site maintenance and a number of large feature projects, I contributed major improvements to the SLT platform and learned a number of best-practice techniques.
+  <p>Through day-to-day site maintenance and a number of large feature projects, I contributed major improvements to the SLT platform and learned a number of best-practice techniques.</p>
 
   <hr />
 
@@ -62,11 +62,11 @@ description: |
   <h3>Navigation and Header</h3>
   <h4>May, 2014</h4>
 
-  When the Sur La Table website needed a complete makeover of its top navigation and header, I was called in as the lead front-end developer on the project. I worked closely with design, QA, and management teams to deliver top-quality navigation UI backed by real-world user testing.
+  <p>When the Sur La Table website needed a complete makeover of its top navigation and header, I was called in as the lead front-end developer on the project. I worked closely with design, QA, and management teams to deliver top-quality navigation UI backed by real-world user testing.</p>
 
-  The top header and navigation sections run on HTML, CSS, JavaScript, and a single sprite file, with all the content integrated with an Oracle Business Control Center.
+  <p>The top header and navigation sections run on HTML, CSS, JavaScript, and a single sprite file, with all the content integrated with an Oracle Business Control Center.</p>
 
-  This was the biggest project of my web development career to date, in terms of prominence and views, and one of the most successful.
+  <p>This was the biggest project of my web development career to date, in terms of prominence and views, and one of the most successful.</p>
 
   <img class="img-responsive" src="img/SurLaTable_Nav.png">
 
@@ -77,7 +77,7 @@ description: |
 
   <a href="http://blog.surlatable.com/" target="_blank">Sur La Table's blog</a> had been largely abandoned for the better part of 3 years.  I was brought in to work alongside the design team to implement a fresh, new layout.
 
-  The WordPress blog is a custom developed theme based on <a href="http://shaybocks.com/foodie/" target="_blank">Foodie</a>.  The design team came up with a number of challenges, which I met head-on, including:
+  <p>The WordPress blog is a custom developed theme based on <a href="http://shaybocks.com/foodie/" target="_blank">Foodie</a>.  The design team came up with a number of challenges, which I met head-on, including:</p>
 
   <ul style="margin:10px auto; text-align: left; width: 50%; font-size:18px;">
     <li> Custom sidebar image menu</li>
@@ -87,7 +87,7 @@ description: |
     <li> Blog setup and administration</li>
   </ul>
 
-  The result of my efforts, along with those of the design team, is a beautiful and functional blog experience to help drive Sur La Table's web presence and SEO.
+  <p>The result of my efforts, along with those of the design team, is a beautiful and functional blog experience to help drive Sur La Table's web presence and SEO.</p>
 
   <img class="img-responsive" src="img/SurLaTableBlog.png">
 
@@ -96,11 +96,11 @@ description: |
   <h3>Gift Cards</h3>
   <h4>March, 2015</h4>
 
-  Gift cards are an important item for any eCommerce company, so Sur La Table enlisted my help to redesign their gift card purchase experience. Their previous design required navigation to several different pages for different types of gift cards, which was both inefficient and frustrating to the user.
+  <p>Gift cards are an important item for any eCommerce company, so Sur La Table enlisted my help to redesign their gift card purchase experience. Their previous design required navigation to several different pages for different types of gift cards, which was both inefficient and frustrating to the user.</p>
 
-  In the <a href="http://www.surlatable.com/category/CAT-11149/" target="_blank">new gift card page design</a>, we focused on making the card selection as easy and intuitive as possible.  It allows the user to choose from a variety of options including virtual vs traditional cards, amount, design, and personalization.  It also has a preview panel that shows exactly what the user will receive.
+  <p>In the <a href="http://www.surlatable.com/category/CAT-11149/" target="_blank">new gift card page design</a>, we focused on making the card selection as easy and intuitive as possible.  It allows the user to choose from a variety of options including virtual vs traditional cards, amount, design, and personalization.  It also has a preview panel that shows exactly what the user will receive.</p>
 
-  The feedback for the new gift card page has been tremendous.  Users have praised it as a large improvement over the previous option and as one of the better gift card experiences on the web.
+  <p>The feedback for the new gift card page has been tremendous.  Users have praised it as a large improvement over the previous option and as one of the better gift card experiences on the web.</p>
 
   <img class="img-responsive" src="img/SurLaTable_GiftCards.png">
 
@@ -109,10 +109,10 @@ description: |
   <h3>Product Detail Page</h3>
   <h4>May, 2015</h4>
 
-  SLT's product detail page (PDP) served online shoppers for almost a decade, and was in desperate need of a makeover.  During my two years at SLT I had developed a strong understanding of their eCommerce needs and design strategies, and so I was made the lead internal developer for the redesign project.
+  <p>SLT's product detail page (PDP) served online shoppers for almost a decade, and was in desperate need of a makeover.  During my two years at SLT I had developed a strong understanding of their eCommerce needs and design strategies, and so I was made the lead internal developer for the redesign project.</p>
 
-  Fitting with SLT's new look and feel in 2015, a clean and interactive design was required.  Working alongside a team of designers and marketing strategists, I contributed a number of interface suggestions until a fully fleshed-out UI was decided upon.
+  <p>Fitting with SLT's new look and feel in 2015, a clean and interactive design was required.  Working alongside a team of designers and marketing strategists, I contributed a number of interface suggestions until a fully fleshed-out UI was decided upon.</p>
 
-  I was given the full responsibility of coding the PDP front-end.  Developing the product detail page of a major eCommerce site requires special attention paid to cross-browser compatibility, in addition to extensive QA and user acceptance testing.  Utilizing modern HTML standards, CSS techniques, and JavaScript libraries, I was able to construct <a href="https://www.surlatable.com/product/PRO-686899/KitchenAid+Artisan+Stand+Mixer?cat=cat450558_KitchenAid" target="_blank">a page that not only renders reliably, but also presents an appealing and intuitive interface</a>.
+  <p>I was given the full responsibility of coding the PDP front-end.  Developing the product detail page of a major eCommerce site requires special attention paid to cross-browser compatibility, in addition to extensive QA and user acceptance testing.  Utilizing modern HTML standards, CSS techniques, and JavaScript libraries, I was able to construct <a href="https://www.surlatable.com/product/PRO-686899/KitchenAid+Artisan+Stand+Mixer?cat=cat450558_KitchenAid" target="_blank">a page that not only renders reliably, but also presents an appealing and intuitive interface</a>.</p>
 
   <img class="img-responsive" src="img/SurLaTable_ProductDetailPage.jpg">

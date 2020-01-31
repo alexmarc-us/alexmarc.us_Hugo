@@ -7,8 +7,8 @@ client: Veevra
 clientLink: "http://veevra.com"
 category: JavaScript, HTML, CSS, ReactJS, NodeJS, D3.js
 description: |
-  Veevra was a start-up focused on providing a digital career coach for individuals seeking to escape the hiring cycle of recruiters and job posting sites.  Using machine learning and a data-driven platform, users could discover what potential their future career can hold and receive advice on how to get there.
+  <p>Veevra was a start-up focused on providing a digital career coach for individuals seeking to escape the hiring cycle of recruiters and job posting sites.  Using machine learning and a data-driven platform, users could discover what potential their future career can hold and receive advice on how to get there.</p>
 
-  Veevra's web platform was a passion project for me.  I was the lead front-end developer for the project since its Alpha phase, committing my free time to its success.  Leveraging ReactJS, I re-architected the Veevra web application for flexibility and mobility as the company became more public-facing and began accepting test users.  With my help it quickly moved towards an open Beta and active clients.
+  <p>Veevra's web platform was a passion project for me.  I was the lead front-end developer for the project since its Alpha phase, committing my free time to its success.  Leveraging ReactJS, I re-architected the Veevra web application for flexibility and mobility as the company became more public-facing and began accepting test users.  With my help it quickly moved towards an open Beta and active clients.</p>
 
-  Unfortunately, the Veevra startup business folded before it really took off.  The experience was still a good one for me, and gave me a lot of important knowledge about web development and start-ups.
+  <p>Unfortunately, the Veevra startup business folded before it really took off.  The experience was still a good one for me, and gave me a lot of important knowledge about web development and start-ups.</p>
