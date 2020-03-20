@@ -258,6 +258,18 @@ section.success a.active {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+    
+    @media(max-width: 992px) {
+        #portfolio .portfolio-item {
+            height: 300px;
+        }
+    }
+}
+
+@media(min-width:1200px) {
+    #portfolio .portfolio-item {
+        height: 420px;
+    }
 }
 
 .btn-outline {
