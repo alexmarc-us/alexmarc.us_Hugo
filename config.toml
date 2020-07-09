@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "am.png"
         name = "Alex Marcus"
-        subtitle = "Digital Digger and Creative Tinkerer"
+        subtitle = "Digital Digger and Creative Thinker"
 
 
     [params.portfolio]
@@ -92,7 +92,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "&copy; 2019 Alex Marcus"
+        copyright = "&copy; 2020 Alex Marcus"
 
         [params.footer.location]
             title = "Location"
@@ -111,14 +111,6 @@ theme = "hugo-freelancer-theme"
             [[params.footer.social.networks]]
                 icon = "fa-github"
                 link = "//github.com/alexmarc-us"
-
-            [[params.footer.social.networks]]
-                icon = "fa-twitter"
-                link=  "//twitter.com/alexmarc_us"
-            
-            [[params.footer.social.networks]]
-                icon = "fa-instagram"
-                link=  "//instagram.com/alexmarc.us"
 
         [params.footer.credits]
             title = "Powered By"
